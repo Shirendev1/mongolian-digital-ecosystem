@@ -11,3 +11,13 @@ Goals
 Status
 Concept stage – open for discussion and collaboration.
 
+## Possible Areas of Exploration
+
+- .mn domain ecosystem development
+- Mongolian language domain names (IDN)
+- National email infrastructure
+- Open digital services for Mongolian users
+
+## Context
+
+This concept is inspired by discussions in the global internet governance community, including ICANN, about how smaller language communities can strengthen their digital presence online.
