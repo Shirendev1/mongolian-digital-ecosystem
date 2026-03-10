@@ -20,10 +20,6 @@ Concept stage – open for discussion and collaboration.
 
 ## Vision
 
-Building a resilient Mongolian digital ecosystem that strengthens national identity, supports the Mongolian language online, and connects Mongolia more actively to the global internet infrastructure.
-
-## Vision
-
 To explore the idea of building a national digital platform for Mongolia, based on the .mn domain ecosystem.  
 
 The platform could support Mongolian language content, digital services, communication tools, and knowledge sharing for citizens, businesses, and institutions.
@@ -43,6 +39,23 @@ The goal is to strengthen Mongolia’s digital presence and create an open ecosy
 - Development of Mongolian-language domain names (IDN)  
 - National digital services and platforms  
 - Collaboration with the global internet community
+
+## Architecture
+
+The Mongolian Digital Ecosystem could include several key components:
+
+### 1. .mn Domain Ecosystem
+Strengthening the use of Mongolia’s national domain and domain-based services.
+
+### 2. Mongolian Language Internet
+Supporting Mongolian language content and domain names online.
+
+### 3. National Digital Platform
+A shared platform for digital services, communication, and knowledge.
+
+### 4. Global Internet Participation
+Encouraging Mongolia’s engagement with the global internet governance community.
+
 
 
 ## Context
