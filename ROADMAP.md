@@ -1,10 +1,15 @@
-# Roadmap
+## Roadmap
 
-Phase 1  
-Concept discussion
+Phase 1
+- Concept discussion
+- Community feedback
+- Documentation
 
-Phase 2  
-Community feedback
+Phase 2
+- Prototype ideas
+- Platform architecture design
 
-Phase 3  
-Research and pilot ideas
+Phase 3
+- Collaboration with developers
+- Exploration of services and tools
+
