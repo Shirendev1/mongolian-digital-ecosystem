@@ -1,15 +1,18 @@
-## Roadmap
+# Roadmap
 
-Phase 1
+## Phase 1 – Concept & Research
 - Concept discussion
 - Community feedback
-- Documentation
+- Documentation and research
+- Explore .mn domain ecosystem
 
-Phase 2
-- Prototype ideas
+## Phase 2 – Architecture & Prototype
 - Platform architecture design
+- Prototype ideas
+- IDN (Mongolian language domains) exploration
+- Initial technical framework
 
-Phase 3
+## Phase 3 – Collaboration & Development
 - Collaboration with developers
-- Exploration of services and tools
-
+- Exploration of digital services and tools
+- Open ecosystem discussion
